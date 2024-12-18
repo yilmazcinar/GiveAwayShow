@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\GiveAwayShow\GiveAwayShow\bin\Debug\net8.0\GiveAwayShow.exe
+C:\Users\caplo\source\repos\GiveAwayShow\GiveAwayShow\bin\Debug\net8.0\GiveAwayShow.deps.json
+C:\Users\caplo\source\repos\GiveAwayShow\GiveAwayShow\bin\Debug\net8.0\GiveAwayShow.runtimeconfig.json
+C:\Users\caplo\source\repos\GiveAwayShow\GiveAwayShow\bin\Debug\net8.0\GiveAwayShow.dll
+C:\Users\caplo\source\repos\GiveAwayShow\GiveAwayShow\bin\Debug\net8.0\GiveAwayShow.pdb
+C:\Users\caplo\source\repos\GiveAwayShow\GiveAwayShow\obj\Debug\net8.0\GiveAwayShow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\GiveAwayShow\GiveAwayShow\obj\Debug\net8.0\GiveAwayShow.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\GiveAwayShow\GiveAwayShow\obj\Debug\net8.0\GiveAwayShow.AssemblyInfo.cs
+C:\Users\caplo\source\repos\GiveAwayShow\GiveAwayShow\obj\Debug\net8.0\GiveAwayShow.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\GiveAwayShow\GiveAwayShow\obj\Debug\net8.0\GiveAwayShow.dll
+C:\Users\caplo\source\repos\GiveAwayShow\GiveAwayShow\obj\Debug\net8.0\refint\GiveAwayShow.dll
+C:\Users\caplo\source\repos\GiveAwayShow\GiveAwayShow\obj\Debug\net8.0\GiveAwayShow.pdb
+C:\Users\caplo\source\repos\GiveAwayShow\GiveAwayShow\obj\Debug\net8.0\GiveAwayShow.genruntimeconfig.cache
+C:\Users\caplo\source\repos\GiveAwayShow\GiveAwayShow\obj\Debug\net8.0\ref\GiveAwayShow.dll
